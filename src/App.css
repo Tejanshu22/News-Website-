@@ -27,6 +27,14 @@
 .App-link {
   color: #61dafb;
 }
+.d-flex{
+  margin: 40px 0px;
+}
+.d-flex button{
+  cursor: pointer;
+  width: 15%;
+  border-radius: 100px;
+}
 
 @keyframes App-logo-spin {
   from {
